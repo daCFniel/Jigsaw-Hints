@@ -4,4 +4,5 @@ title: Jigsaw Hints App
 subtitle: The future is here
 ---
 
-![image](https://github.com/daCFniel/Jigsaw-Hints/assets/38240407/4383b30b-8a84-4017-8519-cdbcbb21c8f5)
+![image](https://github.com/daCFniel/Jigsaw-Hints/assets/38240407/bda600b1-b980-4d36-99c9-8abeffe2f168)
+
