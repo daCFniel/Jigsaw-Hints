@@ -19,12 +19,12 @@ author: Daniel Bielech
 # --- List of links in the navigation bar --- #
 ###############################################
 
-#navbar-links:
+navbar-links:
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-Watch Presentation: "https://www.youtube.com/watch?v=P0t-sJw61vQ&t=3s"
+Introducing Jigsaw Hints 🎥 "https://www.youtube.com/watch?v=P0t-sJw61vQ&t=3s"
 
 ################
 # --- Logo --- #
@@ -142,7 +142,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/navbar.png"
+#navbar-img: "/assets/img/navbar.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
