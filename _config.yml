@@ -20,11 +20,7 @@ author: Daniel Bielech
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Introducing Jigsaw Hints 🎥: "https://www.youtube.com/watch?v=P0t-sJw61vQ&t=3s"
+  🎥 Introducing Jigsaw Hints: "https://www.youtube.com/watch?v=P0t-sJw61vQ&t=3s"
 
 ################
 # --- Logo --- #
